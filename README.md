@@ -25,15 +25,21 @@ Data is stored permanently in a file.
 
 ---
 
+---
 ## File Structure
-
 ```
 studentMS/
 │
 ├── studentMS.c
 ├── studentMS.exe
-└── students.dat
+├── students.dat
+├── StudentMS1.png
+├── StudentMS2.png
+├── StudentMS3.png
+│
+└── README.md
 ```
+---
 
 ---
 
@@ -160,6 +166,20 @@ ID: 102 | Name: Sai Teja | Marks: 82.30
 6. Exit
 Enter your choice: 6
 ```
+
+---
+## Output ScreenShots
+
+### ScreenShot 1
+![Output 1](StudentMS1.png)
+
+### ScreenShot 2
+![Output 2](StudentMS2.png)
+
+### ScreenShot 3
+![Output 3](StudentMS3.png)
+
+---
 
 ---
 
